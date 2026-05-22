@@ -1,0 +1,17 @@
+D47 data from:,winter,spring,summer,autumn
+"In situ measurements, seasonally resolved",0.2928 ± 0.0012,0.2973 ± 0.0023,0.2924 ± 0.0011,0.2967 ± 0.0017
+"Individual Measurements, seasonally resolved",0.6057 ± 0.0013,0.5908 ± 0.0012,0.5876 ± 0.0013,0.5808 ± 0.0010
+"Individual Measurements, seasonally resolved (Age SD = 1 month)",0.6060 ± 0.0013,0.5909 ± 0.0012,0.5876 ± 0.0013,0.5807 ± 0.0010
+"Individual Measurements, seasonally resolved (SD D47 * 10)",0.6009 ± 0.0015,0.5870 ± 0.0013,0.5838 ± 0.0014,0.5787 ± 0.0010
+"Individual Measurements, seasonally resolved (SD d18Oc * 10)",0.6049 ± 0.0013,0.5912 ± 0.0012,0.5874 ± 0.0013,0.5811 ± 0.0010
+"Individual Measurements, seasonally resolved (both SDs * 10)",0.5998 ± 0.0015,0.5873 ± 0.0013,0.5835 ± 0.0014,0.5791 ± 0.0010
+"Individual Measurements, seasonally resolved (SD D47 * 0.1)",0.6165 ± 0.0008,0.6005 ± 0.0008,0.5962 ± 0.0009,0.5878 ± 0.0008
+"Individual Measurements, seasonally resolved (SD d18Oc * 0.1)",0.6058 ± 0.0013,0.5908 ± 0.0012,0.5876 ± 0.0013,0.5808 ± 0.0010
+"Individual Measurements, seasonally resolved (both SDs * 0.1)",0.6165 ± 0.0007,0.6005 ± 0.0008,0.5962 ± 0.0009,0.5878 ± 0.0008
+"Aggregated Measurements, seasonally resolved",0.5870 ± 0.0020,0.5880 ± 0.0022,0.5832 ± 0.0015,0.5827 ± 0.0012
+"Aggregated Measurements, seasonally resolved (SD D47 * 10)",0.5869 ± 0.0020,0.5879 ± 0.0022,0.5831 ± 0.0015,0.5826 ± 0.0012
+"Aggregated Measurements, seasonally resolved (SD d18Oc * 10)",0.5862 ± 0.0021,0.5873 ± 0.0023,0.5829 ± 0.0015,0.5819 ± 0.0014
+"Aggregated Measurements, seasonally resolved (both SDs * 10)",0.5861 ± 0.0021,0.5872 ± 0.0023,0.5829 ± 0.0015,0.5818 ± 0.0014
+"Aggregated Measurements, seasonally resolved (SD D47 * 0.1)",0.5878 ± 0.0020,0.5889 ± 0.0022,0.5837 ± 0.0015,0.5830 ± 0.0012
+"Aggregated Measurements, seasonally resolved (SD d18Oc * 0.1)",0.5897 ± 0.0019,0.5890 ± 0.0018,0.5831 ± 0.0015,0.5823 ± 0.0011
+"Aggregated Measurements, seasonally resolved (both SDs * 0.1)",0.5904 ± 0.0019,0.5897 ± 0.0018,0.5836 ± 0.0015,0.5826 ± 0.0011
